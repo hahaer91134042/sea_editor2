@@ -1,0 +1,3 @@
+[2024-03-15 15:12:17.529] RunTest Amount[200], RunTimes[10], Thread[4], LuaPath[C:\WORK\Git\GameCore\resources\MahJongWays\data\lua_data\020000110.lua], luaFolder[], logFolder[C:\WORK\Git\GameCore\resources\MahJongWays\data]
+[2024-03-15 15:12:17.558] {"TP":55280,"TR":10,"TRTP":2764.0,"free":{"PfCnt":0,"Rs":0,"TP":0},"normal":{"MRTP":27.64,"PfCnt":6,"TP":55280,"getFT":[],"maxPrize":30400,"nPfCntPnt":0.6},"tiles":{"Obj10":[0,2,0],"Obj3":[2,2,0],"Obj4":[1,0,1],"Obj5":[1,2,0],"Obj6":[0,0,1],"Obj7":[1,0,1],"Obj8":[1,1,2],"Obj9":[1,0,0]}}
+[2024-03-15 15:12:17.558] Total run 10 times spend 15 ms

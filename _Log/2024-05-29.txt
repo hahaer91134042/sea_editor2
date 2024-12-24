@@ -1,0 +1,2 @@
+2024-05-29 08:27:13[CandyParty]:calResult config->{"betNum":5,"round":1000000,"thread":4,"path":"C:\\Project\\sea_editor\\resources\\CandyParty\\data\\lua_data\\931000099.lua","dir":"","luaLv":-1,"log":"","gameLog":false,"gameLv":1}
+2024-05-29 08:27:13[CandyParty]:calResult pointer->{"betAmount":5,"runTimes":1000000,"threadNum":4,"luaPath":"C:\\Project\\sea_editor\\resources\\CandyParty\\data\\lua_data\\931000099.lua","luaFolder":"","luaLevel":-1,"logFolder":"","GameLog":false,"GameLevel":1}

@@ -1,0 +1,2 @@
+2024-05-07 14:32:44[MahJong]:calResult config->{"betNum":60,"round":1000,"thread":4,"path":"C:\\Project\\sea_editor\\resources\\MahJongWays\\data\\lua_data\\316000150.lua","dir":"","luaLv":-1,"log":""}
+2024-05-07 14:32:44[MahJong]:calResult pointer->{"betAmount":60,"runTimes":1000,"threadNum":4,"luaPath":"C:\\Project\\sea_editor\\resources\\MahJongWays\\data\\lua_data\\316000150.lua","luaFolder":"","luaLevel":-1,"logFolder":""}

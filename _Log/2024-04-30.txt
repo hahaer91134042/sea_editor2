@@ -1,0 +1,6 @@
+2024-04-30 10:24:32[MahJong]:calResult config->{"betNum":60,"round":10000,"thread":4,"path":"C:\\Project\\sea_editor\\resources\\MahJongWays\\data\\lua_data\\316000150.lua","dir":"","luaLv":-1,"log":""}
+2024-04-30 10:24:32[MahJong]:calResult pointer->{"betAmount":60,"runTimes":10000,"threadNum":4,"luaPath":"C:\\Project\\sea_editor\\resources\\MahJongWays\\data\\lua_data\\316000150.lua","luaFolder":"","luaLevel":-1,"logFolder":""}
+2024-04-30 10:50:32[MahJong]:calResult config->{"betNum":60,"round":1000,"thread":4,"path":"C:\\Project\\sea_editor\\resources\\MahJongWays\\data\\lua_data\\316000150.lua","dir":"","luaLv":-1,"log":""}
+2024-04-30 10:50:32[MahJong]:calResult pointer->{"betAmount":60,"runTimes":1000,"threadNum":4,"luaPath":"C:\\Project\\sea_editor\\resources\\MahJongWays\\data\\lua_data\\316000150.lua","luaFolder":"","luaLevel":-1,"logFolder":""}
+2024-04-30 10:51:01[MahJong]:calResult config->{"betNum":60,"round":1000,"thread":4,"path":"C:\\Project\\sea_editor\\resources\\MahJongWays\\data\\lua_data\\316000150.lua","dir":"","luaLv":-1,"log":""}
+2024-04-30 10:51:01[MahJong]:calResult pointer->{"betAmount":60,"runTimes":1000,"threadNum":4,"luaPath":"C:\\Project\\sea_editor\\resources\\MahJongWays\\data\\lua_data\\316000150.lua","luaFolder":"","luaLevel":-1,"logFolder":""}
